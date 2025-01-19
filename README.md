@@ -12,3 +12,7 @@ Program was coded with Visual Studio 2022 Application
 
 
 Is only available on Windows 11, 10 , 8.1 and 7 operating system
+
+You an visit official web manual here
+
+(https://downloads-manager.neocities.org/webmanual)[Web Manual]

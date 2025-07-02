@@ -1,5 +1,5 @@
 # downloads-manager
-Dowloads Manager is a easy built app that doesn't require wifi at all 100%
+Downloads Manager is a easy built app that doesn't require wifi at all 100%
 
 ![free_to_use_windows_aero_wallpaper_by_windowsartist2009_dhj990q-fullview](https://github.com/user-attachments/assets/c8f40fd4-2578-4c8f-9052-4811a9aa1cc6)
 
